@@ -4,6 +4,7 @@
 "parentId": 301,
 "name": "Провод 2,5 кв",
 "amount": 12,
+"unit": "м",
 "img": "1.jpg",
 "description": "Провод 2,5 квадрата медь"
 },
@@ -12,6 +13,7 @@
 "parentId": 301,
 "name": "Коробка распаячная",
 "amount": 3,
+  "unit": "шт",
 "img": "1.jpg",
 "description": "Распаячная коробка высотой 3 см серая"
 },
@@ -20,6 +22,7 @@
 "parentId": 301,
 "name": "Клемники автозажисные на 2 провода",
 "amount": 12,
+  "unit": "шт",
 "img": "1.jpg",
 "description": "Клемники автозажимные на 2 провода"
 },
@@ -28,6 +31,7 @@
 "parentId": 301,
 "name": "Лампя энергосберегающие 12Вт",
 "amount": 5,
+  "unit": "шт",
 "img": "1.jpg",
 "description": "Лампы энергосберегающие 12Вт цоколь Е27"
 },
@@ -36,6 +40,7 @@
 "parentId": 301,
 "name": "Лампы галоггеновые 12В",
 "amount": 12,
+  "unit": "шт",
 "img": "1.jpg",
 "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse atque magnam ducimus unde molestiae"
 },
@@ -44,6 +49,7 @@
 "parentId": 301,
 "name": "Трансформатор 12В-220В 20Вт",
 "amount": 1,
+  "unit": "шт",
 "img": "1.jpg",
 "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse atque magnam ducimus unde molestiae"
 },
@@ -52,6 +58,7 @@
 "parentId": 301,
 "name": "детектор движения",
 "amount": 12,
+  "unit": "шт",
 "img": "1.jpg",
 "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse atque magnam ducimus unde molestiae"
 }
